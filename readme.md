@@ -73,21 +73,56 @@ Le projet repose sur le croisement de deux sources institutionnelles en Open Dat
 ## Structure du Projet (MAJ régilière)
 
 ```
-/SubstMed_app
+/SubstiMed                           # racine du dépôt Git
 |
-├── /config
-│   └── db.php                 # Connexion PDO sécurisée à la base MySQL
+├── README.md
+├── .gitignore                       # données brutes, config locale, dossiers d'export
+|
+├── /docs                            # documents de conception
+│   ├── /conception
+│   │   ├── mcd.mcd                  # source Mocodo
+│   │   ├── mcd.png                  # export image du MCD
+│   │   └── mld.md                   # modèle logique
+│   └── /personas
+│       └── Personas_complet.pdf
 │
-├── /api                       # Points d'entrée pour les requêtes
+├── /database                        # base de données
+│   ├── schema.sql                   # création des tables et des index
+│   └── sample_data.sql              # jeu d'échantillon d'une centaine de lignes
 │
-├── /includes                  # Composants réutilisables
+├── /etl                             # traitement des données (Python)
+│   ├── clean_bdpm.py                # nettoyage des fichiers BDPM
+│   ├── clean_ansm.py                # nettoyage du fichier ANSM
+│   ├── load_db.py                   # import rejouable dans MySQL
+│   └── /raw                         # fichiers sources d'origine (ignorés par Git)
 │
-├── /assets
-│   ├── /css                   # Styles 
-|   |   └── styles.css
-│   └── /js                    # Scripts AJAX et configuration des graphiques
-|       └── main.js
-│
-└── index.php                  # Vue : Recherche et dernières alertes
+└── /SubstiMed_app                   # application PHP, seul dossier servi par Apache
+    |
+    ├── /config
+    │   ├── db.php                   # connexion PDO sécurisée à la base MySQL
+    │   └── config.local.php         # identifiants, ignoré par Git
+    │
+    ├── /api                         # points d'entrée pour les requêtes
+    │   ├── search.php               # autocomplétion par nom, CIS ou CIP13
+    │   ├── medicament.php           # fiche : statut, date de fin prévue, composition
+    │   ├── alternatives.php         # moteur de substitution
+    │   ├── stats.php                # données du tableau de bord
+    │   └── export.php               # export CSV
+    │
+    ├── /includes                    # composants réutilisables
+    │   ├── header.php               
+    │   ├── footer.php               
+    │   └── functions.php            # validation, réponses JSON communes
+    │
+    ├── /assets
+    │   ├── /css
+    │   │   └── styles.css
+    │   ├── /js
+    │   │   └── main.js              # AJAX, autocomplétion, graphiques
+    │   └── /img                     # logo, favicons, image de partage
+    │
+    ├── index.php                    # recherche et dernières alertes
+    ├── medicament.php               # page fiche, version imprimable
+    └── dashboard.php                # tableau de bord des tendances
 
 ```
