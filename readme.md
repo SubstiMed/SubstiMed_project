@@ -31,12 +31,18 @@ Les ruptures de stock et tensions d'approvisionnement sur les médicaments essen
 
 ## Usagers Cibles (Personas)
 
+Les fiches détaillées sont dans `Personas_complet.pdf`.
+
 * **Cibles Primaires :**
-  * **Patients chroniques & Aidants (ex: Thomas, 42 ans) :** Recherchent une information claire, rassurante (code couleur) et partageable avec leur médecin avant d'aller en pharmacie.
-  * **Pharmaciens d'officine (ex: Sarah, 34 ans) :** Recherchent un outil de comptoir ultra-rapide (recherche par code CIS ou CIP13) pour trouver une substitution légale immédiate.
+  * **Patients chroniques et proches aidants (Hélène LAMBERT, 62 ans, Nantes ; Jean DUPONT, 58 ans, Montpellier) :** recherchent une information claire et rassurante sur leur traitement, avec une alternative officielle qu'ils peuvent imprimer ou montrer à leur pharmacien ou à leur médecin avant de se déplacer.
+  * **Pharmaciens d'officine (Karim BENALI, 44 ans, Lyon ; Jordan CASSEMIRO, 45 ans, Nîmes) :** recherchent un outil de comptoir ultra-rapide (recherche par nom, code CIS ou CIP13) pour trouver une substitution légale immédiate.
 * **Cibles Secondaires :**
-  * **Médecins généralistes (ex: Patricia, 51 ans) :** Vérification rapide en cours de consultation (12-15 min) pour éviter de prescrire un traitement indisponible.
-  * **Journalistes santé & Chercheurs (ex: Lisa, 29 ans) :** Exploration de l'historique des ruptures et export de données (CSV/graphiques) sourcées.
+  * **Médecins généralistes (Patricia MUSSET, 51 ans, Montpellier ; Sophie MARCHAND, 51 ans, Toulouse) :** vérification rapide en consultation pour éviter de prescrire un traitement indisponible, avec les alternatives du même groupe générique.
+  * **Journalistes santé (Lisa POIRREAU, 29 ans, Paris) :** exploration de l'historique des ruptures et export de données sourcées (CSV, graphiques).
+* **Anti-personas (hors cible) :**
+  * **Revendeur en ligne (Mathieu GARNIER, 34 ans, Marseille) :** veut un export massif et automatisé des ruptures pour anticiper les pénuries et revendre plus cher.
+  * **Délégué commercial pharmaceutique (Thomas LEROY, 38 ans, Paris) :** cherche de la veille commerciale, alors que la plateforme ne met aucune marque en avant.
+  * **Chercheuse en pharmacologie (Sophie MARTIN, 36 ans, Toulouse) :** attend des données scientifiques détaillées (mécanismes d'action, études cliniques) que la plateforme ne propose pas.
 
 ---
 
