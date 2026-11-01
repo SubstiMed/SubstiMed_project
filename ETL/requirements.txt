@@ -1,0 +1,3 @@
+pandas>=2.1
+python-calamine>=0.2
+xlrd>=2.0.1  # repli pour .xls

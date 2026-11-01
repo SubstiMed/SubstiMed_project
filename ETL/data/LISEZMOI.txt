@@ -1,0 +1,3 @@
+Déposer ici : CIS_bdpm, CIS_CIP_bdpm, CIS_COMPO_bdpm, CIS_GENER_bdpm (.txt ou .csv) et CIS_CIP_Dispo_Spec.txt.
+CIS_CIP_Dispo_Spec.txt = fichier OFFICIEL de disponibilité (contient les Code_CIS). Ne pas y mettre en plus l'export web ANSM.
+Ne pas laisser de copies type CIS_bdpm_1.csv (ignorées, mais source de confusion).

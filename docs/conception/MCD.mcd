@@ -1,0 +1,15 @@
+GROUPE_GENERIQUE: Identifiant_groupe_generique, Libelle_groupe_generique
+Substitue, 01 MEDICAMENT, 1N GROUPE_GENERIQUE
+SUBSTANCE: Code_substance, Denomination_substance, Dosage_substance
+
+:
+MEDICAMENT: Code_CIS, Denomination_medicament, Forme_pharmaceutique, Titulaire
+Est compose de, 1N MEDICAMENT, 1N SUBSTANCE
+
+RUPTURE_ANSM: Id_Alerte, Statut_Code, Statut_Libelle, Date_Debut, Date_Fin_Prevue, URL_Information
+Subit Alerte, 11 RUPTURE_ANSM, 0N MEDICAMENT
+Possede Conditionnement, 1N MEDICAMENT, 11 PRESENTATION
+
+:
+:
+PRESENTATION: Code_CIP13, Libelle_presentation, Etat_commercialisation

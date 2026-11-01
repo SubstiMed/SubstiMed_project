@@ -1,0 +1,37 @@
+{
+  "width": 540,
+  "height": 457,
+  "cx": [
+    [ "GROUPE_GENERIQUE", 105 ],
+    [ "SUBSTITUE", 269 ],
+    [ "SUBSTANCE", 445 ],
+    [ "MEDICAMENT", 269 ],
+    [ "EST_COMPOSE_DE", 445 ],
+    [ "RUPTURE_ANSM", 105 ],
+    [ "SUBIT_ALERTE", 269 ],
+    [ "POSSEDE_CONDITIONNEMENT", 445 ],
+    [ "PRESENTATION", 445 ]
+  ],
+  "cy": [
+    [ "GROUPE_GENERIQUE", 51 ],
+    [ "SUBSTITUE", 51 ],
+    [ "SUBSTANCE", 51 ],
+    [ "MEDICAMENT", 169 ],
+    [ "EST_COMPOSE_DE", 169 ],
+    [ "RUPTURE_ANSM", 313 ],
+    [ "SUBIT_ALERTE", 313 ],
+    [ "POSSEDE_CONDITIONNEMENT", 313 ],
+    [ "PRESENTATION", 406 ]
+  ],
+  "shift": [
+    [ "SUBSTITUE,MEDICAMENT,0", 0 ],
+    [ "SUBSTITUE,GROUPE_GENERIQUE,0", 0 ],
+    [ "EST_COMPOSE_DE,MEDICAMENT,0", 0 ],
+    [ "EST_COMPOSE_DE,SUBSTANCE,0", 0 ],
+    [ "SUBIT_ALERTE,RUPTURE_ANSM,0", 0 ],
+    [ "SUBIT_ALERTE,MEDICAMENT,0", 0 ],
+    [ "POSSEDE_CONDITIONNEMENT,MEDICAMENT,0", 0 ],
+    [ "POSSEDE_CONDITIONNEMENT,PRESENTATION,0", 0 ]
+  ],
+  "ratio": []
+}

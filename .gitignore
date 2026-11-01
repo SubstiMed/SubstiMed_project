@@ -1,0 +1,42 @@
+# =====================================================================
+# SubstiMed - Fichier .gitignore
+# =====================================================================
+
+# 1. Logs et rapports d'anomalies générés par l'ETL et les tests
+ETL/logs/*
+!ETL/logs/.gitkeep
+*.log
+
+# 2. Caches Python et environnements virtuels
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+
+# 3. Configurations locales propres à chaque environnement (identifiants WAMP, etc.)
+.env
+*.local.php
+SubstiMed.app/config/config.local.php
+
+# 4. Fichiers système et résidus d'éditeurs (Windows, macOS, VS Code, JetBrains)
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+
+# 5. Caches divers
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+

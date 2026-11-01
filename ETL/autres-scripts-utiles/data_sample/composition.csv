@@ -1,0 +1,192 @@
+﻿Id_composition,Code_CIS,Designation_element,Code_substance,Dosage_substance,Reference_dosage,Nature,Numero_liaison
+89,60033510,poudre,10157,125 mg,un flacon,SA,1
+242,60078765,comprimé,38607,,,SA,1
+243,60078765,comprimé,59691,400 mg,un comprimé,FT,1
+490,60152411,comprimé,02202,325 mg,un comprimé,SA,1
+491,60152411,comprimé,35415,"32,94 mg",un comprimé,FT,2
+492,60152411,comprimé,86571,"37,5 mg",un comprimé,SA,2
+530,60161143,comprimé,11532,10 mg,un comprimé,SA,1
+788,60241874,solution,04179,200 microgrammes,une dose délivrée,SA,2
+789,60241874,solution,30613,6 microgrammes,une dose délivrée,SA,1
+925,60274536,comprimé,32925,"281,30 mg",un comprimé,SA,1
+926,60274536,comprimé,72481,250 mg,un comprimé,FT,1
+1430,60433166,comprimé,80180,400 mg,un comprimé,SA,1
+1505,60457719,gélule,72101,30 mg,une gélule,FT,1
+1506,60457719,gélule,80476,,,SA,1
+1872,60565723,poudre,23654,28 mg,une gélule,SA,1
+2331,60678735,comprimé,80180,400 mg,un comprimé,SA,1
+2954,60890617,gélule,72101,30 mg,une gélule,FT,1
+2955,60890617,gélule,80476,,,SA,1
+3036,60913012,solution,10876,500 mg,1 ml,SA,1
+3330,60998977,poudre,00915,100 mg,un flacon,SA,1
+3589,61070180,gélule,84452,80 mg,une gélule,SA,1
+4693,61380670,gélule,84452,80 mg,une gélule,SA,1
+4772,61392480,comprimé,80102,10 mg,un comprimé,FT,1
+4773,61392480,comprimé,86162,,,SA,1
+4783,61396361,solution,13582,150 microgrammes,une dose,SA,1
+4784,61396361,solution,45293,134 microgrammes,une dose,FT,1
+4840,61411685,comprimé,10171,20 mg,un comprimé,SA,1
+5268,61561635,comprimé,02685,"77,42 mg",un comprimé,SA,1
+5269,61561635,comprimé,86088,"50,00 mg",un comprimé,FT,1
+5478,61633134,gélule (125 mg),84452,125 mg,une gélule (125 mg),SA,1
+5479,61633134,gélule (80 mg),84452,80 mg,une gélule (80 mg),SA,9
+5713,61689332,comprimé,80102,10 mg,un comprimé,FT,1
+5714,61689332,comprimé,86162,,,SA,1
+5755,61704193,gélule,72101,30 mg,une gélule,FT,1
+5756,61704193,gélule,80476,,,SA,1
+5790,61713388,comprimé,02064,"12,5 mg",un comprimé,SA,3
+5791,61713388,comprimé,90670,,,SA,1
+5792,61713388,comprimé,96027,5 mg,un comprimé,FT,1
+6098,61799519,comprimé,07436,"2,5 mg",un comprimé,SA,1
+6151,61823589,comprimé,80180,400 mg,un comprimé,SA,1
+7017,62079435,solution,00529,20 g,100 ml de solution pour perfusion,FT,1
+7018,62079435,solution,17150,,,SA,1
+7256,62137575,comprimé,38607,,,SA,1
+7257,62137575,comprimé,59691,400 mg,un comprimé,FT,1
+7665,62262995,comprimé,33803,5 mg,un comprimé,SA,1
+7666,62262995,comprimé,70320,"4,56 mg",un comprimé,FT,1
+7900,62346703,comprimé,38607,"460,48 mg",un comprimé,SA,1
+7901,62346703,comprimé,59691,400 mg,un comprimé,FT,1
+8136,62423007,comprimé,80102,10 mg,un comprimé,FT,1
+8137,62423007,comprimé,86162,"10,4 mg",un comprimé,SA,1
+8256,62443668,gélule,72101,30 mg,une gélule,FT,1
+8257,62443668,gélule,80476,,,SA,1
+8713,62606108,gélule,84452,80 mg,une gélule,SA,1
+9094,62735380,lyophilisat,02067,100 mg,un flacon,FT,1
+9095,62735380,lyophilisat,17345,,,SA,1
+9139,62746658,collyre,00037,"0,3 mg",un récipient unidose,SA,1
+9176,62760565,solution,03778,"1,5 g",100 ml de solution,SA,1
+9601,62880372,comprimé,80102,10 mg,un comprimé,FT,1
+9602,62880372,comprimé,86162,"10,4 mg",un comprimé,SA,1
+9719,62925159,comprimé,38607,"460,48 mg",un comprimé,SA,1
+9720,62925159,comprimé,59691,400 mg,un comprimé,FT,1
+9937,62977049,gélule,84452,80 mg,une gélule,SA,1
+10062,63021303,comprimé,02064,"12,5 mg",un comprimé,SA,2
+10063,63021303,comprimé,31416,150 mg,un comprimé,SA,1
+10599,63167404,vernis à ongles,26590,5 g,100 ml,FT,1
+10600,63167404,vernis à ongles,53732,"5,57 g",100 ml,SA,1
+11032,63302229,gélule,33773,,,SA,1
+11033,63302229,gélule,64391,5 mg,une gélule,FT,1
+11131,63337059,compartiment 1 : solution de glucose,00529,250 g,500 ml,FT,1
+11132,63337059,compartiment 1 : solution de glucose,17150,275 g,1316 ml,SA,1
+11133,63337059,compartiment 2 : solution d'acides aminés et élect,00006,"2,6 g",750 ml,SA,5
+11134,63337059,compartiment 2 : solution d'acides aminés et élect,00031,12 g,750 ml,SA,3
+11135,63337059,compartiment 2 : solution d'acides aminés et élect,00093,"4,5 g",750 ml,SA,23
+11136,63337059,compartiment 2 : solution d'acides aminés et élect,00430,"0,74 g",750 ml,SA,20
+11137,63337059,compartiment 2 : solution d'acides aminés et élect,00544,"5,1 g",750 ml,SA,8
+11138,63337059,compartiment 2 : solution d'acides aminés et élect,00550,"4,2 g",750 ml,SA,9
+11139,63337059,compartiment 2 : solution d'acides aminés et élect,00555,"5,9 g",750 ml,SA,10
+11140,63337059,compartiment 2 : solution d'acides aminés et élect,00563,"6,8 g",500 ml,FT,11
+11141,63337059,compartiment 2 : solution d'acides aminés et élect,00610,"5,9 g",750 ml,SA,13
+11142,63337059,compartiment 2 : solution d'acides aminés et élect,00629,"3,4 g",750 ml,SA,15
+11143,63337059,compartiment 2 : solution d'acides aminés et élect,00631,"6,1 g",750 ml,SA,24
+11144,63337059,compartiment 2 : solution d'acides aminés et élect,00658,"4,2 g",750 ml,SA,16
+11145,63337059,compartiment 2 : solution d'acides aminés et élect,00674,"1,4 g",750 ml,SA,17
+11146,63337059,compartiment 2 : solution d'acides aminés et élect,00675,"5,5 g",750 ml,SA,19
+11147,63337059,compartiment 2 : solution d'acides aminés et élect,01021,"5,9 g",750 ml,SA,7
+11148,63337059,compartiment 2 : solution d'acides aminés et élect,01044,"4,2 g",750 ml,SA,6
+11149,63337059,compartiment 2 : solution d'acides aminés et élect,01178,"8,5 g",750 ml,SA,4
+11150,63337059,compartiment 2 : solution d'acides aminés et élect,02666,"4,2 g",750 ml,SA,12
+11151,63337059,compartiment 2 : solution d'acides aminés et élect,03019,"2,5 g",750 ml,SA,22
+11152,63337059,compartiment 2 : solution d'acides aminés et élect,03482,"5,1 g",750 ml,SA,14
+11153,63337059,compartiment 2 : solution d'acides aminés et élect,03605,"0,17 g",750 ml,SA,18
+11154,63337059,compartiment 2 : solution d'acides aminés et élect,19508,,,SA,21
+11155,63337059,compartiment 2 : solution d'acides aminés et élect,44707,"3,8 g",750 ml,FT,21
+11156,63337059,compartiment 2 : solution d'acides aminés et élect,51513,"0,56 g",500 ml,FT,20
+11157,63337059,compartiment 2 : solution d'acides aminés et élect,79537,"8,5 g",750 ml,SA,11
+11158,63337059,compartiment 2 : solution d'acides aminés et élect,84160,"1,2 g",500 ml,FT,22
+11159,63337059,compartiment 2 : solution d'acides aminés et élect,89235,"3,7 g",500 ml,FT,24
+11160,63337059,compartiment 3 : émulsion lipidique,04951,100 g,500 ml,SA,1
+11273,63371015,comprimé,03149,"5, 680 mg",un comprimé,SA,1
+11274,63371015,comprimé,96013,5 mg,un comprimé,FT,1
+11546,63439854,gélule blanche,84452,80 mg,une gélule,SA,1
+11547,63439854,gélule rose et blanche,84452,125 mg,une gélule,SA,10
+11630,63468069,comprimé,80102,10 mg,un comprimé,FT,1
+11631,63468069,comprimé,86162,,,SA,1
+12087,63606680,gélule,72101,30 mg,une gélule,FT,1
+12088,63606680,gélule,80476,,,SA,1
+12233,63669727,gélule,84452,80 mg,une gélule,SA,1
+12304,63703396,gélule blanche,84452,80 mg,une gélule,SA,1
+12305,63703396,gélule blanche et rose,84452,125 mg,une gélule,SA,10
+12395,63735807,comprimé,80102,10 mg,un comprimé,FT,1
+12396,63735807,comprimé,86162,"10,4 mg",un comprimé,SA,1
+12995,63954135,gélule,72101,30 mg,une gélule,FT,1
+12996,63954135,gélule,80476,"33,66 mg",une gélule,SA,1
+13164,64021886,gélule blanche,84452,80 mg,une gélule,SA,1
+13165,64021886,gélule blanche et rose,84452,125 mg,une gélule,SA,10
+14039,64296341,comprimé,38607,400 mg,un comprimé,SA,1
+14312,64376346,solution,08351,80 mg,"une seringue préremplie de 0,8 mL",SA,1
+14351,64391177,comprimé,80102,10 mg,un comprimé,FT,1
+14352,64391177,comprimé,86162,"10,40 mg",un comprimé,SA,1
+14507,64431294,comprimé,86162,"10,4 mg",un comprimé,SA,1
+14605,64460520,comprimé,05248,500 mg,un comprimé,FT,1
+14606,64460520,comprimé,28165,,,SA,1
+14607,64460520,comprimé,29442,,,SA,2
+14608,64460520,comprimé,93286,"62,5 mg",un comprimé,FT,2
+14634,64468061,gélule,84452,80 mg,une gélule,SA,1
+14635,64468759,gélule,72101,30 mg,une gélule,FT,1
+14636,64468759,gélule,80476,,,SA,1
+14984,64590923,solution,01931,50 mg,1 ml de solution à diluer,SA,1
+15145,64633851,comprimé,38607,,,SA,1
+15146,64633851,comprimé,59691,400 mg,un comprimé,FT,1
+15420,64723206,comprimé,80102,10 mg,un comprimé,FT,1
+15421,64723206,comprimé,86162,,,SA,1
+15549,64766264,solution,04979,10 mg,une ampoule,SA,1
+16005,64877364,comprimé,00941,500 mg,un comprimé,SA,1
+16184,64933585,poudre,02825,"40,0 mg",un flacon de poudre,FT,1
+16185,64933585,poudre,02826,"43,8 mg",un flacon de poudre,SA,1
+16350,64982194,gélule blanche,84452,80 mg,une gélule,SA,1
+16351,64982194,gélule blanche et rose,84452,125 mg,une gélule,SA,10
+17214,65221726,gélule,72101,30 mg,une gélule,FT,1
+17215,65221726,gélule,80476,,,SA,1
+17458,65314130,gélule blanche,84452,80 mg,une gélule,SA,1
+17459,65314130,gélule blanche et rose,84452,125 mg,une gélule,SA,10
+17539,65338028,comprimé,05334,50 mg,un comprimé,SA,1
+18239,65543531,comprimé,26682,"2,5 mg",un comprimé,SA,1
+18918,65761302,comprimé,38607,,,SA,1
+18919,65761302,comprimé,59691,400 mg,un comprimé,FT,1
+19064,65820455,comprimé,38607,,,SA,1
+19065,65820455,comprimé,59691,400 mg,un comprimé,FT,1
+19118,65843062,gélule blanche,84452,80 mg,une gélule de 80 mg,SA,1
+19119,65843062,gélule blanche et rose,84452,125 mg,une gélule de 125 mg,SA,9
+19335,65919229,gélule,46223,200 mg,un gélule,FT,1
+19336,65919229,gélule,58471,300 mg,un gélule,SA,1
+19539,65983662,comprimé,38607,,,SA,1
+19540,65983662,comprimé,59691,400 mg,un comprimé,FT,1
+19972,66112441,solution,11673,25 mg,une ampoule de 5 mL,SA,1
+20183,66170633,gélule,72101,30 mg,une gélule,FT,1
+20184,66170633,gélule,80476,,,SA,1
+20442,66256064,gélule,84452,80 mg,une gélule,SA,1
+20620,66302120,collyre,01608,"0,10 g",100 ml,SA,1
+20621,66302120,collyre,23654,"0,30 g",100 ml,SA,2
+20857,66370235,comprimé,80102,10 mg,un comprimé,FT,1
+20858,66370235,comprimé,86162,,,SA,1
+21042,66435544,comprimé,84359,500 mg,un comprimé,SA,1
+21240,66503721,gélule (125 mg),84452,125 mg,une gélule,SA,9
+21241,66503721,gélule (80 mg),84452,80 mg,une gélule,SA,1
+22176,66824150,gélule blanche,84452,80 mg,une gélule,SA,1
+22177,66824150,gélule blanche et rose,84452,125 mg,une gélule,SA,9
+22227,66842981,gélule,84452,80 mg,une gélule,SA,1
+22255,66852477,gélule,72101,30 mg,une gélule,FT,1
+22256,66852477,gélule,80476,,,SA,1
+22368,66890524,comprimé,80180,400 mg,un comprimé,SA,1
+22674,66982271,gélule,72101,30 mg,une gélule,FT,1
+22675,66982271,gélule,80476,,,SA,1
+22856,67040436,comprimé,80102,10 mg,un comprimé,FT,1
+22857,67040436,comprimé,86162,,,SA,1
+23112,67131583,gélule,01958,60 mg,une gélule,SA,1
+23596,67300599,solution,10876,500 mg,1 Ml,SA,1
+23719,67341610,comprimé,80102,10 mg,un comprimé,FT,1
+23720,67341610,comprimé,86162,"10,37 mg",un comprimé,SA,1
+23878,67393660,comprimé,50947,50 mg,un comprimé,SA,1
+25168,67785202,suppositoire,00532,"1,92 g",un suppositoire,SA,1
+25444,67876901,gélule,02332,300 mg,une gélule,SA,1
+25467,67885003,gélule,72101,30 mg,une gélule,FT,1
+25468,67885003,gélule,80476,"33,68 mg",une gélule,SA,1
+25988,68016452,poudre,54043,"110,00 microgrammes",un flacon de poudre,SA,1
+26650,68232635,comprimé,00569,1 mg,un comprimé,SA,1
+28695,68901873,poudre,37430,"37,50 mg",un flacon,SA,1
+29325,69096857,solution,10876,500 mg,1 mL de solution,SA,1
+31114,69637743,lyophilisat,00356,"0,005 g",une ampoule de lyophilisat,SA,2
+31115,69637743,lyophilisat,03102,"0,100 g",une ampoule de lyophilisat,SA,1
+32133,69966450,gélule,23957,15 mg,une gélule,SA,1
